@@ -58,7 +58,7 @@
     "@babel/runtime": "^7.12.5",
     "babel-loader": "^8.1.0",
     "css-loader": "^5.0.1",
-    "electron": "^10.1.5",
+    "electron": "^10.2.0",
     "electron-builder": "^22.9.1",
     "electron-rebuild": "^2.3.2",
     "file-loader": "^6.2.0",
